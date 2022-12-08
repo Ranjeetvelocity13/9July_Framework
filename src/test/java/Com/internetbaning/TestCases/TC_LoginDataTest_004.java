@@ -29,6 +29,7 @@ public class TC_LoginDataTest_004 extends BaseClass {
 
 		if (Isalertpresent() == true) {
 			driver.switchTo().alert().accept(); // popup close
+			Thread.sleep(2000);
 			driver.switchTo().defaultContent();
 			Assert.assertTrue(true);
 			logger.info("Login failed");
