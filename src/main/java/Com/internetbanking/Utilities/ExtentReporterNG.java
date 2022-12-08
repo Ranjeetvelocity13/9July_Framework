@@ -25,7 +25,7 @@ public class ExtentReporterNG {
         String path = System.getProperty("user.dir")+"/reports/"+Name+""+".html";
 		ExtentHtmlReporter reporter = new ExtentHtmlReporter(path);
 		reporter.config().setReportName("9July Framework Results");
-		reporter.config().setDocumentTitle("Automation Execution Results");
+		reporter.config().setDocumentTitle("(9July Automation Execution Results");
 		
 		extent = new ExtentReports();
 		extent.attachReporter(reporter);

@@ -292,3 +292,99 @@
 2022-12-06 19:34:28,888 - 9JulyBanking -INFO - Enter username
 2022-12-06 19:34:29,049 - 9JulyBanking -INFO - Enter Password
 2022-12-06 19:34:33,182 - 9JulyBanking -INFO - Login failed
+2022-12-07 08:59:24,003 - 9JulyBanking -INFO - URL is opened
+2022-12-07 08:59:24,391 - 9JulyBanking -INFO - Enter username
+2022-12-07 08:59:24,543 - 9JulyBanking -INFO - Enter Passsword
+2022-12-07 08:59:32,559 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-12-07 08:59:45,022 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-12-07 08:59:45,108 - 9JulyBanking -INFO - Enter customer name
+2022-12-07 08:59:45,157 - 9JulyBanking -INFO - Select gender
+2022-12-07 08:59:45,399 - 9JulyBanking -INFO - Select DOB
+2022-12-07 08:59:47,485 - 9JulyBanking -INFO - Enter Address
+2022-12-07 08:59:47,550 - 9JulyBanking -INFO - Select city
+2022-12-07 08:59:47,587 - 9JulyBanking -INFO - Select State
+2022-12-07 08:59:47,635 - 9JulyBanking -INFO - Select Pinno
+2022-12-07 08:59:47,675 - 9JulyBanking -INFO - Enter mobile number
+2022-12-07 08:59:47,727 - 9JulyBanking -INFO - Enter email address
+2022-12-07 08:59:47,771 - 9JulyBanking -INFO - Enter password
+2022-12-07 08:59:52,081 - 9JulyBanking -INFO - Click on submit button
+2022-12-07 08:59:54,179 - 9JulyBanking -INFO - User created
+2022-12-07 09:00:12,214 - 9JulyBanking -INFO - URL is open
+2022-12-07 09:00:12,873 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:00:13,063 - 9JulyBanking -INFO - Enter Password
+2022-12-07 09:00:32,215 - 9JulyBanking -INFO - URL is opened
+2022-12-07 09:00:32,686 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:00:32,848 - 9JulyBanking -INFO - Enter Passsword
+2022-12-07 09:00:40,758 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-12-07 09:00:43,465 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-12-07 09:00:45,516 - 9JulyBanking -INFO - Enter deposit value
+2022-12-07 09:00:48,308 - 9JulyBanking -INFO - Clcik on subit button
+2022-12-07 09:00:48,341 - 9JulyBanking -INFO - Accoutn created
+2022-12-07 09:01:03,618 - 9JulyBanking -INFO - URL is open
+2022-12-07 09:01:04,141 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:01:04,316 - 9JulyBanking -INFO - Enter Password
+2022-12-07 09:01:08,364 - 9JulyBanking -INFO - Login passed
+2022-12-07 09:01:30,476 - 9JulyBanking -INFO - URL is open
+2022-12-07 09:01:30,863 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:01:31,668 - 9JulyBanking -INFO - Enter Password
+2022-12-07 09:01:39,525 - 9JulyBanking -INFO - Login failed
+2022-12-07 09:01:55,972 - 9JulyBanking -INFO - URL is open
+2022-12-07 09:01:56,379 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:01:56,484 - 9JulyBanking -INFO - Enter Password
+2022-12-07 09:02:03,083 - 9JulyBanking -INFO - Login failed
+2022-12-07 09:02:17,116 - 9JulyBanking -INFO - URL is open
+2022-12-07 09:02:17,701 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:02:17,867 - 9JulyBanking -INFO - Enter Password
+2022-12-07 09:02:26,340 - 9JulyBanking -INFO - Login failed
+2022-12-07 09:02:40,308 - 9JulyBanking -INFO - URL is open
+2022-12-07 09:02:40,676 - 9JulyBanking -INFO - Enter username
+2022-12-07 09:02:40,780 - 9JulyBanking -INFO - Enter Password
+2022-12-07 09:02:50,482 - 9JulyBanking -INFO - Login failed
+2022-12-08 12:20:23,190 - 9JulyBanking -INFO - URL is opened
+2022-12-08 12:20:23,792 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:20:23,913 - 9JulyBanking -INFO - Enter Passsword
+2022-12-08 12:20:30,556 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-12-08 12:20:40,608 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-12-08 12:20:40,764 - 9JulyBanking -INFO - Enter customer name
+2022-12-08 12:20:40,850 - 9JulyBanking -INFO - Select gender
+2022-12-08 12:20:40,977 - 9JulyBanking -INFO - Select DOB
+2022-12-08 12:20:43,055 - 9JulyBanking -INFO - Enter Address
+2022-12-08 12:20:43,129 - 9JulyBanking -INFO - Select city
+2022-12-08 12:20:43,170 - 9JulyBanking -INFO - Select State
+2022-12-08 12:20:43,216 - 9JulyBanking -INFO - Select Pinno
+2022-12-08 12:20:43,257 - 9JulyBanking -INFO - Enter mobile number
+2022-12-08 12:20:43,304 - 9JulyBanking -INFO - Enter email address
+2022-12-08 12:20:43,356 - 9JulyBanking -INFO - Enter password
+2022-12-08 12:20:47,830 - 9JulyBanking -INFO - Click on submit button
+2022-12-08 12:20:49,911 - 9JulyBanking -INFO - User created
+2022-12-08 12:21:05,824 - 9JulyBanking -INFO - URL is open
+2022-12-08 12:21:06,505 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:21:07,434 - 9JulyBanking -INFO - Enter Password
+2022-12-08 12:21:32,391 - 9JulyBanking -INFO - URL is opened
+2022-12-08 12:21:32,900 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:21:32,986 - 9JulyBanking -INFO - Enter Passsword
+2022-12-08 12:21:39,094 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-12-08 12:21:43,702 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-12-08 12:21:45,771 - 9JulyBanking -INFO - Enter deposit value
+2022-12-08 12:21:48,371 - 9JulyBanking -INFO - Clcik on subit button
+2022-12-08 12:21:48,408 - 9JulyBanking -INFO - Accoutn created
+2022-12-08 12:22:03,091 - 9JulyBanking -INFO - URL is open
+2022-12-08 12:22:03,671 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:22:03,862 - 9JulyBanking -INFO - Enter Password
+2022-12-08 12:22:10,317 - 9JulyBanking -INFO - Login passed
+2022-12-08 12:22:38,144 - 9JulyBanking -INFO - URL is open
+2022-12-08 12:22:38,449 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:22:39,032 - 9JulyBanking -INFO - Enter Password
+2022-12-08 12:22:45,054 - 9JulyBanking -INFO - Login failed
+2022-12-08 12:23:03,240 - 9JulyBanking -INFO - URL is open
+2022-12-08 12:23:03,971 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:23:04,248 - 9JulyBanking -INFO - Enter Password
+2022-12-08 12:23:10,593 - 9JulyBanking -INFO - Login failed
+2022-12-08 12:23:27,499 - 9JulyBanking -INFO - URL is open
+2022-12-08 12:23:27,772 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:23:27,848 - 9JulyBanking -INFO - Enter Password
+2022-12-08 12:23:34,057 - 9JulyBanking -INFO - Login failed
+2022-12-08 12:23:52,180 - 9JulyBanking -INFO - URL is open
+2022-12-08 12:23:52,345 - 9JulyBanking -INFO - Enter username
+2022-12-08 12:23:52,439 - 9JulyBanking -INFO - Enter Password
+2022-12-08 12:24:00,723 - 9JulyBanking -INFO - Login failed

@@ -12,8 +12,7 @@ public class ReadConfigiration {
 	
 	public ReadConfigiration() {
 		
-		File src = new File("/Users/ranjeetkendre/Desktop/eclipse-workspace/TesNgTutorial/9July_Framework/src/main/java/Com/internetbanking/configuration/Config.properties");
-	
+		File src = new File("/Users/ranjeetkendre/Desktop/eclipse-workspace/9July_Framework/src/main/java/Com/internetbanking/configuration/Config.properties");
 	    FileInputStream fis;
 		try {
 			fis = new FileInputStream(src);	

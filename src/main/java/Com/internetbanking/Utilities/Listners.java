@@ -56,8 +56,6 @@ public class Listners extends BaseClass implements ITestListener {
 		
 	}
 
-	
-
 	public void onFinish(ITestContext context) {
 		extent.flush();
 	}
