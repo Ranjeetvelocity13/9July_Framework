@@ -36,6 +36,7 @@ public class TC_LoginDataTest_004 extends BaseClass {
 		} else {
 			Assert.assertTrue(true);
 			logger.info("Login passed");
+			Thread.sleep(2000);
 			LP.Logoutapplication();
 			Thread.sleep(3000);
 			driver.switchTo().alert().accept();
