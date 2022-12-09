@@ -40,7 +40,7 @@ public class BaseClass {
 	@Parameters("Browser")
 	@BeforeMethod
 	public void initialization(String br) {
-		 
+
 		logger = logger.getLogger("9JulyBanking");
 		PropertyConfigurator.configure("Log4j.properties");
 
@@ -51,7 +51,7 @@ public class BaseClass {
 		} else {
 
 			System.setProperty("webdriver.gecko.driver", readconfig.getForeFoxPath());
-
+			System.out.println("Hello");
 			driver = new FirefoxDriver();
 		}
 
