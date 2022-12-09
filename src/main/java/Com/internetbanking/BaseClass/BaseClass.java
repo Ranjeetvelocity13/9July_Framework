@@ -54,7 +54,7 @@ public class BaseClass {
 			System.out.println("Hello");
 			driver = new FirefoxDriver();
 		}
-
+System.out.println("Hello");
 		driver.manage().window().maximize();
 
 		driver.manage().deleteAllCookies();
